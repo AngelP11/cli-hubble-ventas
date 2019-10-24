@@ -1,13 +1,17 @@
 # Hubble Ventas
 
-Sistema para el registro de clientes y facturacion de la empresa Hubble Latam 2020
+Sistema para el registro de clientes y facturacion de la empresa Hubble Latam 2020 .C.A
+
+## Requisitos
+
+- Python 3.6^
+- PIP (Gestor de paquetes de Python)
 
 ## Instalacion
 
-1. git clone https://github.com/AngelP11/cli-hubble-ventas.git
-2. pip install virtualenv
-3. virtualenv .hv
-4. source .hv/bin/activate
-5. cd cli-hubble-ventas
-6. pip install click
-7. pip install .
+1. Bajar el repositorio y descomprimir
+2. Abrir la terminal o cmd, y moverse hasta la carpeta 'cli-hubble-ventas'
+3. Instalar click: ´pip install click´
+4. Instalar Hubble Ventas: ´pip install .´
+5. Verificar instalacion: ´hv clients´
+
